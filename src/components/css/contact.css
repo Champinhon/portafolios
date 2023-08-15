@@ -1,0 +1,23 @@
+.contact-container {
+    max-width: 600px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #f4f4f4;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .contact-title {
+    font-size: 2em;
+    margin-bottom: 20px;
+    text-align: center;
+    color: #333;
+  }
+  
+  .contact-email, .contact-phone {
+    font-size: 1.25em;
+    margin-bottom: 15px;
+    text-align: center;
+    color: #555;
+  }
+  
